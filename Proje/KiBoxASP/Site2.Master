@@ -1,0 +1,92 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site2.master.cs" Inherits="KiBoxASP.Site2" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title><%: Page.Title %></title>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta name="description" content="" />
+	<meta name="keywords" content="" />
+	<link href='http://fonts.googleapis.com/css?family=Raleway:400,100,200,300,500,600,700,800,900' rel='stylesheet' type='text/css'>
+	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+	<script src="js/skel.min.js"></script>
+	<script src="js/skel-panels.min.js"></script>
+	<script src="js/init.js"></script>
+	<noscript>
+		<link rel="stylesheet" href="css/skel-noscript.css" />
+		<link rel="stylesheet" href="css/style.css" />
+		<link rel="stylesheet" href="css/style-desktop.css" />
+	</noscript>
+</head>
+<body>
+    <form runat="server">
+        <div id="header-wrapper">
+            <div id="header">
+				<div class="container">	
+                    	
+					<div id="logo">
+						<h1><a href="Default.aspx">KİBOX</a></h1>
+					</div>
+
+					<nav id="nav">
+						<ul>
+							<li><a href="Default.aspx">ANASAYFA</a></li>
+							<li><a href="KiBox.aspx">KİBOX</a></li>
+							<li><a href="Hakkimizda.aspx">HAKKIMIZDA</a></li>
+							<li><a href="Iletisim.aspx">İLETİŞİM</a></li>
+                            <li><a href="Kayit.aspx">KAYIT OL</a></li>
+                            <li><a href="Giris.aspx">OTURUM AÇ</a></li>
+                            <li><a href="Yardim.aspx">YARDIM</a></li>
+						</ul>
+					</nav>
+				</div>
+			</div>
+
+			<div id="banner">
+				<div class="container">
+				</div>
+			</div>
+	    </div>
+
+    <asp:ContentPlaceHolder ID="MainContent" runat="server">
+
+    </asp:ContentPlaceHolder>
+
+        <div id="featured">
+		    <div class="container">
+			    <section>
+				<header>
+				<h2>KOCAELİ ÜNİVERSİTESİ, KOCAELİ, TÜRKİYE</h2>
+				<span class="byline">Kocaeli University, educates its students in Kocaeli province of Turkey.</span>
+			    </header>
+			    </section>
+		        <div class="row">
+			        <section class="4u">
+				    <a href="#" class="image full"><img src="images/KOU.png" alt=""></a>
+				    <p>Kocaeli Üniversitesi 6 fakülte, 1 meslek yüksekokulu, 3 enstitü ile 1992’de çıkarılan 3837 sayılı yasa ile kurulmuştur. Bugün bünyesinde 14 fakülte, 6 yüksekokul, 21 meslek yüksekokulu, 3 enstitü ve devlet konservatuvarı bulunmaktadır. Ayrıca 13 araştırma ve uygulama merkezi ile 28 araştırma ve uygulama birimi vardır.</p>
+				    <p><a href="http://www.kocaeli.edu.tr/" target="_blank" class="button">DAHA FAZLA DETAY</a></p>
+			        </section>
+			        <section class="4u">
+				    <a href="#" class="image full"><img src="images/izsaat.jpg" alt=""></a>
+				    <p>I. Dünya Savaşı’nın getirdiği yıkımlar sonucu önemini bir süre yitiren ve sırasıyla önce İngilizler (6 Temmuz 1920) ardından Yunanlılar (28 Nisan 1921) tarafından işgal edilen Kocaeli, 28 Haziran 1921 de Türk Orduları tarafından işgalden kurtarıldı. Kocaeli’nin Başiskele, Darıca, Dilovası, Çayırova, İzmit, Derince, Gebze, Gölcük, Karamürsel, Kandıra, Kartepe ve Körfez olmak üzere toplam on iki ilçesi bulunmaktadır. Kocaeli, Cumhuriyetle birlikte özellikle sanayileşme alanında en hızlı gelişen illerimizden birisi olmuştur.</p>
+				    <p><a href="http://www.kocaeli.bel.tr/" target="_blank" class="button">DAHA FAZLA DETAY</a></p>
+			        </section>
+			        <section class="4u">
+				    <a href="#" class="image full"><img src="images/trist.jpg" alt=""></a>
+				    <p>Türkiye Cumhuriyeti, Kuzey yarımkürede, Avrupa ve Asya kıtalarının kesişme noktasında bulunan bir ülke. Ülke topraklarının büyük bir bölümü Anadolu yarımadasında, kalanı ise Balkan Yarımadası'nın uzantısı olan Trakya'da bulunur. Ülkenin üç yanı Akdeniz, Karadeniz ve bu iki denizi birbirine bağlayan Boğazlar ile Marmara Denizi ve Ege Denizi ile çevrilidir.</p>
+				    <p><a href="https://www.turkiye.gov.tr/" target="_blank" class="button">DAHA FAZLA DETAY</a></p>
+			        </section>
+			    </div>
+		    </div>
+	    </div>
+
+	    <div id="copyright">
+		    <div class="container">
+			    <a href="Default.aspx">KiBox @ 2017</a><a> - Tüm Hakları Saklıdır</a>
+                Altyapı: Mustafa Acar - Bir KOÜ Projesidir.
+		    </div>
+	    </div>
+    </form>
+</body>
+</html>

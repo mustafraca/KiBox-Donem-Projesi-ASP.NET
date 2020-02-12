@@ -1,0 +1,402 @@
+C:\KiBoxASP\KiBoxASP\bin\roslyn\csc.exe
+C:\KiBoxASP\KiBoxASP\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\KiBoxASP\KiBoxASP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\KiBoxASP\KiBoxASP\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\KiBoxASP\KiBoxASP\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\KiBoxASP\KiBoxASP\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\KiBoxASP\KiBoxASP\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\KiBoxASP\KiBoxASP\bin\roslyn\System.Collections.Immutable.dll
+C:\KiBoxASP\KiBoxASP\bin\roslyn\System.Reflection.Metadata.dll
+C:\KiBoxASP\KiBoxASP\bin\roslyn\vbc.exe
+C:\KiBoxASP\KiBoxASP\bin\roslyn\VBCSCompiler.exe
+C:\KiBoxASP\KiBoxASP\bin\roslyn\VBCSCompiler.exe.config
+C:\KiBoxASP\KiBoxASP\bin\KiBoxASP.dll.config
+C:\KiBoxASP\KiBoxASP\bin\KiBoxASP.dll
+C:\KiBoxASP\KiBoxASP\bin\KiBoxASP.pdb
+C:\KiBoxASP\KiBoxASP\bin\Antlr3.Runtime.dll
+C:\KiBoxASP\KiBoxASP\bin\AspNet.ScriptManager.bootstrap.dll
+C:\KiBoxASP\KiBoxASP\bin\AspNet.ScriptManager.jQuery.dll
+C:\KiBoxASP\KiBoxASP\bin\EntityFramework.dll
+C:\KiBoxASP\KiBoxASP\bin\EntityFramework.SqlServer.dll
+C:\KiBoxASP\KiBoxASP\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\KiBoxASP\KiBoxASP\bin\Microsoft.AspNet.Identity.Core.dll
+C:\KiBoxASP\KiBoxASP\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\KiBoxASP\KiBoxASP\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\KiBoxASP\KiBoxASP\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\KiBoxASP\KiBoxASP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\KiBoxASP\KiBoxASP\bin\Microsoft.Owin.dll
+C:\KiBoxASP\KiBoxASP\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\KiBoxASP\KiBoxASP\bin\Microsoft.Owin.Security.Cookies.dll
+C:\KiBoxASP\KiBoxASP\bin\Microsoft.Owin.Security.dll
+C:\KiBoxASP\KiBoxASP\bin\Microsoft.Owin.Security.Facebook.dll
+C:\KiBoxASP\KiBoxASP\bin\Microsoft.Owin.Security.Google.dll
+C:\KiBoxASP\KiBoxASP\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\KiBoxASP\KiBoxASP\bin\Microsoft.Owin.Security.OAuth.dll
+C:\KiBoxASP\KiBoxASP\bin\Microsoft.Owin.Security.Twitter.dll
+C:\KiBoxASP\KiBoxASP\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\KiBoxASP\KiBoxASP\bin\Microsoft.ScriptManager.WebForms.dll
+C:\KiBoxASP\KiBoxASP\bin\Microsoft.Web.Infrastructure.dll
+C:\KiBoxASP\KiBoxASP\bin\Newtonsoft.Json.dll
+C:\KiBoxASP\KiBoxASP\bin\Owin.dll
+C:\KiBoxASP\KiBoxASP\bin\System.Web.Optimization.dll
+C:\KiBoxASP\KiBoxASP\bin\System.Web.Providers.dll
+C:\KiBoxASP\KiBoxASP\bin\WebGrease.dll
+C:\KiBoxASP\KiBoxASP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\KiBoxASP\KiBoxASP\bin\System.Web.Optimization.xml
+C:\KiBoxASP\KiBoxASP\bin\Antlr3.Runtime.pdb
+C:\KiBoxASP\KiBoxASP\bin\Newtonsoft.Json.xml
+C:\KiBoxASP\KiBoxASP\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\KiBoxASP\KiBoxASP\bin\EntityFramework.xml
+C:\KiBoxASP\KiBoxASP\bin\EntityFramework.SqlServer.xml
+C:\KiBoxASP\KiBoxASP\bin\Microsoft.AspNet.Identity.Core.xml
+C:\KiBoxASP\KiBoxASP\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\KiBoxASP\KiBoxASP\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\KiBoxASP\KiBoxASP\bin\System.Web.Providers.xml
+C:\KiBoxASP\KiBoxASP\bin\Microsoft.Owin.xml
+C:\KiBoxASP\KiBoxASP\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\KiBoxASP\KiBoxASP\bin\Microsoft.Owin.Security.xml
+C:\KiBoxASP\KiBoxASP\bin\Microsoft.Owin.Security.Facebook.xml
+C:\KiBoxASP\KiBoxASP\bin\Microsoft.Owin.Security.Cookies.xml
+C:\KiBoxASP\KiBoxASP\bin\Microsoft.Owin.Security.Google.xml
+C:\KiBoxASP\KiBoxASP\bin\Microsoft.Owin.Security.Twitter.xml
+C:\KiBoxASP\KiBoxASP\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\KiBoxASP\KiBoxASP\bin\Microsoft.Owin.Security.OAuth.xml
+C:\KiBoxASP\KiBoxASP\obj\Debug\KiBoxASP.csprojResolveAssemblyReference.cache
+C:\KiBoxASP\KiBoxASP\obj\Debug\KiBoxASP.dll
+C:\KiBoxASP\KiBoxASP\obj\Debug\KiBoxASP.pdb
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\KiBox ASP.Net\Proje\KiBoxASP\bin\roslyn\csc.exe
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\KiBox ASP.Net\Proje\KiBoxASP\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\KiBox ASP.Net\Proje\KiBoxASP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\KiBox ASP.Net\Proje\KiBoxASP\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\KiBox ASP.Net\Proje\KiBoxASP\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\KiBox ASP.Net\Proje\KiBoxASP\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\KiBox ASP.Net\Proje\KiBoxASP\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\KiBox ASP.Net\Proje\KiBoxASP\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\KiBox ASP.Net\Proje\KiBoxASP\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\KiBox ASP.Net\Proje\KiBoxASP\bin\roslyn\vbc.exe
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\KiBox ASP.Net\Proje\KiBoxASP\bin\roslyn\VBCSCompiler.exe
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\KiBox ASP.Net\Proje\KiBoxASP\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\KiBox ASP.Net\Proje\KiBoxASP\bin\KiBoxASP.dll.config
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\KiBox ASP.Net\Proje\KiBoxASP\bin\KiBoxASP.dll
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\KiBox ASP.Net\Proje\KiBoxASP\bin\KiBoxASP.pdb
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\KiBox ASP.Net\Proje\KiBoxASP\bin\Antlr3.Runtime.dll
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\KiBox ASP.Net\Proje\KiBoxASP\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\KiBox ASP.Net\Proje\KiBoxASP\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\KiBox ASP.Net\Proje\KiBoxASP\bin\EntityFramework.dll
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\KiBox ASP.Net\Proje\KiBoxASP\bin\EntityFramework.SqlServer.dll
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\KiBox ASP.Net\Proje\KiBoxASP\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\KiBox ASP.Net\Proje\KiBoxASP\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\KiBox ASP.Net\Proje\KiBoxASP\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\KiBox ASP.Net\Proje\KiBoxASP\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\KiBox ASP.Net\Proje\KiBoxASP\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\KiBox ASP.Net\Proje\KiBoxASP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\KiBox ASP.Net\Proje\KiBoxASP\bin\Microsoft.Owin.dll
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\KiBox ASP.Net\Proje\KiBoxASP\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\KiBox ASP.Net\Proje\KiBoxASP\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\KiBox ASP.Net\Proje\KiBoxASP\bin\Microsoft.Owin.Security.dll
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\KiBox ASP.Net\Proje\KiBoxASP\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\KiBox ASP.Net\Proje\KiBoxASP\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\KiBox ASP.Net\Proje\KiBoxASP\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\KiBox ASP.Net\Proje\KiBoxASP\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\KiBox ASP.Net\Proje\KiBoxASP\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\KiBox ASP.Net\Proje\KiBoxASP\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\KiBox ASP.Net\Proje\KiBoxASP\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\KiBox ASP.Net\Proje\KiBoxASP\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\KiBox ASP.Net\Proje\KiBoxASP\bin\Newtonsoft.Json.dll
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\KiBox ASP.Net\Proje\KiBoxASP\bin\Owin.dll
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\KiBox ASP.Net\Proje\KiBoxASP\bin\System.Web.Optimization.dll
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\KiBox ASP.Net\Proje\KiBoxASP\bin\System.Web.Providers.dll
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\KiBox ASP.Net\Proje\KiBoxASP\bin\WebGrease.dll
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\KiBox ASP.Net\Proje\KiBoxASP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\KiBox ASP.Net\Proje\KiBoxASP\bin\System.Web.Optimization.xml
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\KiBox ASP.Net\Proje\KiBoxASP\bin\Antlr3.Runtime.pdb
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\KiBox ASP.Net\Proje\KiBoxASP\bin\Newtonsoft.Json.xml
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\KiBox ASP.Net\Proje\KiBoxASP\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\KiBox ASP.Net\Proje\KiBoxASP\bin\EntityFramework.xml
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\KiBox ASP.Net\Proje\KiBoxASP\bin\EntityFramework.SqlServer.xml
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\KiBox ASP.Net\Proje\KiBoxASP\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\KiBox ASP.Net\Proje\KiBoxASP\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\KiBox ASP.Net\Proje\KiBoxASP\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\KiBox ASP.Net\Proje\KiBoxASP\bin\System.Web.Providers.xml
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\KiBox ASP.Net\Proje\KiBoxASP\bin\Microsoft.Owin.xml
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\KiBox ASP.Net\Proje\KiBoxASP\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\KiBox ASP.Net\Proje\KiBoxASP\bin\Microsoft.Owin.Security.xml
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\KiBox ASP.Net\Proje\KiBoxASP\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\KiBox ASP.Net\Proje\KiBoxASP\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\KiBox ASP.Net\Proje\KiBoxASP\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\KiBox ASP.Net\Proje\KiBoxASP\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\KiBox ASP.Net\Proje\KiBoxASP\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\KiBox ASP.Net\Proje\KiBoxASP\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\KiBox ASP.Net\Proje\KiBoxASP\obj\Debug\KiBoxASP.csprojResolveAssemblyReference.cache
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\KiBox ASP.Net\Proje\KiBoxASP\obj\Debug\KiBoxASP.dll
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\KiBox ASP.Net\Proje\KiBoxASP\obj\Debug\KiBoxASP.pdb
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\KiBox ASP.Net\Proje\KiBoxASP\bin\roslyn\csc.exe
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\KiBox ASP.Net\Proje\KiBoxASP\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\KiBox ASP.Net\Proje\KiBoxASP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\KiBox ASP.Net\Proje\KiBoxASP\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\KiBox ASP.Net\Proje\KiBoxASP\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\KiBox ASP.Net\Proje\KiBoxASP\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\KiBox ASP.Net\Proje\KiBoxASP\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\KiBox ASP.Net\Proje\KiBoxASP\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\KiBox ASP.Net\Proje\KiBoxASP\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\KiBox ASP.Net\Proje\KiBoxASP\bin\roslyn\vbc.exe
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\KiBox ASP.Net\Proje\KiBoxASP\bin\roslyn\VBCSCompiler.exe
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\KiBox ASP.Net\Proje\KiBoxASP\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\KiBox ASP.Net\Proje\KiBoxASP\bin\KiBoxASP.dll.config
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\KiBox ASP.Net\Proje\KiBoxASP\bin\KiBoxASP.dll
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\KiBox ASP.Net\Proje\KiBoxASP\bin\KiBoxASP.pdb
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\KiBox ASP.Net\Proje\KiBoxASP\bin\Antlr3.Runtime.dll
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\KiBox ASP.Net\Proje\KiBoxASP\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\KiBox ASP.Net\Proje\KiBoxASP\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\KiBox ASP.Net\Proje\KiBoxASP\bin\EntityFramework.dll
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\KiBox ASP.Net\Proje\KiBoxASP\bin\EntityFramework.SqlServer.dll
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\KiBox ASP.Net\Proje\KiBoxASP\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\KiBox ASP.Net\Proje\KiBoxASP\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\KiBox ASP.Net\Proje\KiBoxASP\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\KiBox ASP.Net\Proje\KiBoxASP\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\KiBox ASP.Net\Proje\KiBoxASP\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\KiBox ASP.Net\Proje\KiBoxASP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\KiBox ASP.Net\Proje\KiBoxASP\bin\Microsoft.Owin.dll
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\KiBox ASP.Net\Proje\KiBoxASP\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\KiBox ASP.Net\Proje\KiBoxASP\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\KiBox ASP.Net\Proje\KiBoxASP\bin\Microsoft.Owin.Security.dll
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\KiBox ASP.Net\Proje\KiBoxASP\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\KiBox ASP.Net\Proje\KiBoxASP\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\KiBox ASP.Net\Proje\KiBoxASP\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\KiBox ASP.Net\Proje\KiBoxASP\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\KiBox ASP.Net\Proje\KiBoxASP\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\KiBox ASP.Net\Proje\KiBoxASP\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\KiBox ASP.Net\Proje\KiBoxASP\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\KiBox ASP.Net\Proje\KiBoxASP\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\KiBox ASP.Net\Proje\KiBoxASP\bin\Newtonsoft.Json.dll
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\KiBox ASP.Net\Proje\KiBoxASP\bin\Owin.dll
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\KiBox ASP.Net\Proje\KiBoxASP\bin\System.Web.Optimization.dll
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\KiBox ASP.Net\Proje\KiBoxASP\bin\System.Web.Providers.dll
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\KiBox ASP.Net\Proje\KiBoxASP\bin\WebGrease.dll
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\KiBox ASP.Net\Proje\KiBoxASP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\KiBox ASP.Net\Proje\KiBoxASP\bin\System.Web.Optimization.xml
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\KiBox ASP.Net\Proje\KiBoxASP\bin\Antlr3.Runtime.pdb
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\KiBox ASP.Net\Proje\KiBoxASP\bin\Newtonsoft.Json.xml
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\KiBox ASP.Net\Proje\KiBoxASP\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\KiBox ASP.Net\Proje\KiBoxASP\bin\EntityFramework.xml
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\KiBox ASP.Net\Proje\KiBoxASP\bin\EntityFramework.SqlServer.xml
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\KiBox ASP.Net\Proje\KiBoxASP\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\KiBox ASP.Net\Proje\KiBoxASP\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\KiBox ASP.Net\Proje\KiBoxASP\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\KiBox ASP.Net\Proje\KiBoxASP\bin\System.Web.Providers.xml
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\KiBox ASP.Net\Proje\KiBoxASP\bin\Microsoft.Owin.xml
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\KiBox ASP.Net\Proje\KiBoxASP\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\KiBox ASP.Net\Proje\KiBoxASP\bin\Microsoft.Owin.Security.xml
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\KiBox ASP.Net\Proje\KiBoxASP\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\KiBox ASP.Net\Proje\KiBoxASP\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\KiBox ASP.Net\Proje\KiBoxASP\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\KiBox ASP.Net\Proje\KiBoxASP\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\KiBox ASP.Net\Proje\KiBoxASP\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\KiBox ASP.Net\Proje\KiBoxASP\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\KiBox ASP.Net\Proje\KiBoxASP\obj\Debug\KiBoxASP.csprojResolveAssemblyReference.cache
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\KiBox ASP.Net\Proje\KiBoxASP\obj\Debug\KiBoxASP.csproj.CoreCompileInputs.cache
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\KiBox ASP.Net\Proje\KiBoxASP\obj\Debug\KiBoxASP.dll
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\KiBox ASP.Net\Proje\KiBoxASP\obj\Debug\KiBoxASP.pdb
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\Mustafa\Proje II\Proje\KiBoxASP\bin\roslyn\csc.exe
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\Mustafa\Proje II\Proje\KiBoxASP\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\Mustafa\Proje II\Proje\KiBoxASP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\Mustafa\Proje II\Proje\KiBoxASP\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\Mustafa\Proje II\Proje\KiBoxASP\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\Mustafa\Proje II\Proje\KiBoxASP\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\Mustafa\Proje II\Proje\KiBoxASP\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\Mustafa\Proje II\Proje\KiBoxASP\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\Mustafa\Proje II\Proje\KiBoxASP\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\Mustafa\Proje II\Proje\KiBoxASP\bin\roslyn\vbc.exe
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\Mustafa\Proje II\Proje\KiBoxASP\bin\roslyn\VBCSCompiler.exe
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\Mustafa\Proje II\Proje\KiBoxASP\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\Mustafa\Proje II\Proje\KiBoxASP\bin\KiBoxASP.dll.config
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\Mustafa\Proje II\Proje\KiBoxASP\bin\KiBoxASP.dll
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\Mustafa\Proje II\Proje\KiBoxASP\bin\KiBoxASP.pdb
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\Mustafa\Proje II\Proje\KiBoxASP\bin\Antlr3.Runtime.dll
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\Mustafa\Proje II\Proje\KiBoxASP\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\Mustafa\Proje II\Proje\KiBoxASP\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\Mustafa\Proje II\Proje\KiBoxASP\bin\EntityFramework.dll
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\Mustafa\Proje II\Proje\KiBoxASP\bin\EntityFramework.SqlServer.dll
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\Mustafa\Proje II\Proje\KiBoxASP\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\Mustafa\Proje II\Proje\KiBoxASP\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\Mustafa\Proje II\Proje\KiBoxASP\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\Mustafa\Proje II\Proje\KiBoxASP\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\Mustafa\Proje II\Proje\KiBoxASP\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\Mustafa\Proje II\Proje\KiBoxASP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\Mustafa\Proje II\Proje\KiBoxASP\bin\Microsoft.Owin.dll
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\Mustafa\Proje II\Proje\KiBoxASP\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\Mustafa\Proje II\Proje\KiBoxASP\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\Mustafa\Proje II\Proje\KiBoxASP\bin\Microsoft.Owin.Security.dll
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\Mustafa\Proje II\Proje\KiBoxASP\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\Mustafa\Proje II\Proje\KiBoxASP\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\Mustafa\Proje II\Proje\KiBoxASP\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\Mustafa\Proje II\Proje\KiBoxASP\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\Mustafa\Proje II\Proje\KiBoxASP\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\Mustafa\Proje II\Proje\KiBoxASP\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\Mustafa\Proje II\Proje\KiBoxASP\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\Mustafa\Proje II\Proje\KiBoxASP\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\Mustafa\Proje II\Proje\KiBoxASP\bin\Newtonsoft.Json.dll
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\Mustafa\Proje II\Proje\KiBoxASP\bin\Owin.dll
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\Mustafa\Proje II\Proje\KiBoxASP\bin\System.Web.Optimization.dll
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\Mustafa\Proje II\Proje\KiBoxASP\bin\System.Web.Providers.dll
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\Mustafa\Proje II\Proje\KiBoxASP\bin\WebGrease.dll
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\Mustafa\Proje II\Proje\KiBoxASP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\Mustafa\Proje II\Proje\KiBoxASP\bin\System.Web.Optimization.xml
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\Mustafa\Proje II\Proje\KiBoxASP\bin\Antlr3.Runtime.pdb
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\Mustafa\Proje II\Proje\KiBoxASP\bin\Newtonsoft.Json.xml
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\Mustafa\Proje II\Proje\KiBoxASP\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\Mustafa\Proje II\Proje\KiBoxASP\bin\EntityFramework.xml
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\Mustafa\Proje II\Proje\KiBoxASP\bin\EntityFramework.SqlServer.xml
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\Mustafa\Proje II\Proje\KiBoxASP\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\Mustafa\Proje II\Proje\KiBoxASP\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\Mustafa\Proje II\Proje\KiBoxASP\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\Mustafa\Proje II\Proje\KiBoxASP\bin\System.Web.Providers.xml
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\Mustafa\Proje II\Proje\KiBoxASP\bin\Microsoft.Owin.xml
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\Mustafa\Proje II\Proje\KiBoxASP\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\Mustafa\Proje II\Proje\KiBoxASP\bin\Microsoft.Owin.Security.xml
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\Mustafa\Proje II\Proje\KiBoxASP\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\Mustafa\Proje II\Proje\KiBoxASP\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\Mustafa\Proje II\Proje\KiBoxASP\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\Mustafa\Proje II\Proje\KiBoxASP\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\Mustafa\Proje II\Proje\KiBoxASP\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\Mustafa\Proje II\Proje\KiBoxASP\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\Mustafa\Proje II\Proje\KiBoxASP\obj\Debug\KiBoxASP.csprojResolveAssemblyReference.cache
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\Mustafa\Proje II\Proje\KiBoxASP\obj\Debug\KiBoxASP.csproj.CoreCompileInputs.cache
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\Mustafa\Proje II\Proje\KiBoxASP\obj\Debug\KiBoxASP.csproj.CopyComplete
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\Mustafa\Proje II\Proje\KiBoxASP\obj\Debug\KiBoxASP.dll
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\Mustafa\Proje II\Proje\KiBoxASP\obj\Debug\KiBoxASP.pdb
+C:\Users\Mustafa Acar\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Mustafa\Proje II\Proje\KiBoxASP\bin\roslyn\csc.exe
+C:\Users\Mustafa Acar\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Mustafa\Proje II\Proje\KiBoxASP\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Mustafa Acar\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Mustafa\Proje II\Proje\KiBoxASP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Mustafa Acar\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Mustafa\Proje II\Proje\KiBoxASP\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Mustafa Acar\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Mustafa\Proje II\Proje\KiBoxASP\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Mustafa Acar\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Mustafa\Proje II\Proje\KiBoxASP\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Mustafa Acar\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Mustafa\Proje II\Proje\KiBoxASP\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Mustafa Acar\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Mustafa\Proje II\Proje\KiBoxASP\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Mustafa Acar\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Mustafa\Proje II\Proje\KiBoxASP\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Mustafa Acar\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Mustafa\Proje II\Proje\KiBoxASP\bin\roslyn\vbc.exe
+C:\Users\Mustafa Acar\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Mustafa\Proje II\Proje\KiBoxASP\bin\roslyn\VBCSCompiler.exe
+C:\Users\Mustafa Acar\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Mustafa\Proje II\Proje\KiBoxASP\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Mustafa Acar\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Mustafa\Proje II\Proje\KiBoxASP\bin\KiBoxASP.dll.config
+C:\Users\Mustafa Acar\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Mustafa\Proje II\Proje\KiBoxASP\bin\KiBoxASP.dll
+C:\Users\Mustafa Acar\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Mustafa\Proje II\Proje\KiBoxASP\bin\KiBoxASP.pdb
+C:\Users\Mustafa Acar\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Mustafa\Proje II\Proje\KiBoxASP\bin\Antlr3.Runtime.dll
+C:\Users\Mustafa Acar\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Mustafa\Proje II\Proje\KiBoxASP\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Mustafa Acar\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Mustafa\Proje II\Proje\KiBoxASP\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Mustafa Acar\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Mustafa\Proje II\Proje\KiBoxASP\bin\EntityFramework.dll
+C:\Users\Mustafa Acar\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Mustafa\Proje II\Proje\KiBoxASP\bin\EntityFramework.SqlServer.dll
+C:\Users\Mustafa Acar\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Mustafa\Proje II\Proje\KiBoxASP\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Mustafa Acar\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Mustafa\Proje II\Proje\KiBoxASP\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Mustafa Acar\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Mustafa\Proje II\Proje\KiBoxASP\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Mustafa Acar\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Mustafa\Proje II\Proje\KiBoxASP\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Mustafa Acar\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Mustafa\Proje II\Proje\KiBoxASP\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Mustafa Acar\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Mustafa\Proje II\Proje\KiBoxASP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Mustafa Acar\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Mustafa\Proje II\Proje\KiBoxASP\bin\Microsoft.Owin.dll
+C:\Users\Mustafa Acar\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Mustafa\Proje II\Proje\KiBoxASP\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Mustafa Acar\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Mustafa\Proje II\Proje\KiBoxASP\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Mustafa Acar\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Mustafa\Proje II\Proje\KiBoxASP\bin\Microsoft.Owin.Security.dll
+C:\Users\Mustafa Acar\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Mustafa\Proje II\Proje\KiBoxASP\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Mustafa Acar\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Mustafa\Proje II\Proje\KiBoxASP\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Mustafa Acar\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Mustafa\Proje II\Proje\KiBoxASP\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Mustafa Acar\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Mustafa\Proje II\Proje\KiBoxASP\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Mustafa Acar\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Mustafa\Proje II\Proje\KiBoxASP\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Mustafa Acar\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Mustafa\Proje II\Proje\KiBoxASP\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Mustafa Acar\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Mustafa\Proje II\Proje\KiBoxASP\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Mustafa Acar\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Mustafa\Proje II\Proje\KiBoxASP\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Mustafa Acar\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Mustafa\Proje II\Proje\KiBoxASP\bin\Newtonsoft.Json.dll
+C:\Users\Mustafa Acar\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Mustafa\Proje II\Proje\KiBoxASP\bin\Owin.dll
+C:\Users\Mustafa Acar\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Mustafa\Proje II\Proje\KiBoxASP\bin\System.Web.Optimization.dll
+C:\Users\Mustafa Acar\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Mustafa\Proje II\Proje\KiBoxASP\bin\System.Web.Providers.dll
+C:\Users\Mustafa Acar\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Mustafa\Proje II\Proje\KiBoxASP\bin\WebGrease.dll
+C:\Users\Mustafa Acar\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Mustafa\Proje II\Proje\KiBoxASP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Mustafa Acar\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Mustafa\Proje II\Proje\KiBoxASP\bin\System.Web.Optimization.xml
+C:\Users\Mustafa Acar\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Mustafa\Proje II\Proje\KiBoxASP\bin\Antlr3.Runtime.pdb
+C:\Users\Mustafa Acar\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Mustafa\Proje II\Proje\KiBoxASP\bin\Newtonsoft.Json.xml
+C:\Users\Mustafa Acar\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Mustafa\Proje II\Proje\KiBoxASP\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Mustafa Acar\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Mustafa\Proje II\Proje\KiBoxASP\bin\EntityFramework.xml
+C:\Users\Mustafa Acar\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Mustafa\Proje II\Proje\KiBoxASP\bin\EntityFramework.SqlServer.xml
+C:\Users\Mustafa Acar\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Mustafa\Proje II\Proje\KiBoxASP\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Mustafa Acar\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Mustafa\Proje II\Proje\KiBoxASP\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Mustafa Acar\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Mustafa\Proje II\Proje\KiBoxASP\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Mustafa Acar\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Mustafa\Proje II\Proje\KiBoxASP\bin\System.Web.Providers.xml
+C:\Users\Mustafa Acar\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Mustafa\Proje II\Proje\KiBoxASP\bin\Microsoft.Owin.xml
+C:\Users\Mustafa Acar\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Mustafa\Proje II\Proje\KiBoxASP\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Mustafa Acar\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Mustafa\Proje II\Proje\KiBoxASP\bin\Microsoft.Owin.Security.xml
+C:\Users\Mustafa Acar\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Mustafa\Proje II\Proje\KiBoxASP\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Mustafa Acar\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Mustafa\Proje II\Proje\KiBoxASP\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Mustafa Acar\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Mustafa\Proje II\Proje\KiBoxASP\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Mustafa Acar\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Mustafa\Proje II\Proje\KiBoxASP\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Mustafa Acar\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Mustafa\Proje II\Proje\KiBoxASP\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Mustafa Acar\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Mustafa\Proje II\Proje\KiBoxASP\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Mustafa Acar\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Mustafa\Proje II\Proje\KiBoxASP\obj\Debug\KiBoxASP.csprojAssemblyReference.cache
+C:\Users\Mustafa Acar\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Mustafa\Proje II\Proje\KiBoxASP\obj\Debug\KiBoxASP.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa Acar\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Mustafa\Proje II\Proje\KiBoxASP\obj\Debug\KiBoxASP.csproj.CopyComplete
+C:\Users\Mustafa Acar\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Mustafa\Proje II\Proje\KiBoxASP\obj\Debug\KiBoxASP.dll
+C:\Users\Mustafa Acar\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Mustafa\Proje II\Proje\KiBoxASP\obj\Debug\KiBoxASP.pdb
+C:\Users\ACAR\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Mustafa\Proje II\Proje\KiBoxASP\bin\roslyn\csc.exe
+C:\Users\ACAR\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Mustafa\Proje II\Proje\KiBoxASP\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ACAR\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Mustafa\Proje II\Proje\KiBoxASP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ACAR\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Mustafa\Proje II\Proje\KiBoxASP\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ACAR\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Mustafa\Proje II\Proje\KiBoxASP\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ACAR\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Mustafa\Proje II\Proje\KiBoxASP\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ACAR\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Mustafa\Proje II\Proje\KiBoxASP\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ACAR\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Mustafa\Proje II\Proje\KiBoxASP\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ACAR\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Mustafa\Proje II\Proje\KiBoxASP\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ACAR\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Mustafa\Proje II\Proje\KiBoxASP\bin\roslyn\vbc.exe
+C:\Users\ACAR\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Mustafa\Proje II\Proje\KiBoxASP\bin\roslyn\VBCSCompiler.exe
+C:\Users\ACAR\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Mustafa\Proje II\Proje\KiBoxASP\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ACAR\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Mustafa\Proje II\Proje\KiBoxASP\bin\KiBoxASP.dll.config
+C:\Users\ACAR\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Mustafa\Proje II\Proje\KiBoxASP\bin\KiBoxASP.dll
+C:\Users\ACAR\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Mustafa\Proje II\Proje\KiBoxASP\bin\KiBoxASP.pdb
+C:\Users\ACAR\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Mustafa\Proje II\Proje\KiBoxASP\bin\Antlr3.Runtime.dll
+C:\Users\ACAR\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Mustafa\Proje II\Proje\KiBoxASP\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\ACAR\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Mustafa\Proje II\Proje\KiBoxASP\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\ACAR\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Mustafa\Proje II\Proje\KiBoxASP\bin\EntityFramework.dll
+C:\Users\ACAR\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Mustafa\Proje II\Proje\KiBoxASP\bin\EntityFramework.SqlServer.dll
+C:\Users\ACAR\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Mustafa\Proje II\Proje\KiBoxASP\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\ACAR\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Mustafa\Proje II\Proje\KiBoxASP\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ACAR\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Mustafa\Proje II\Proje\KiBoxASP\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\ACAR\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Mustafa\Proje II\Proje\KiBoxASP\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\ACAR\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Mustafa\Proje II\Proje\KiBoxASP\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\ACAR\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Mustafa\Proje II\Proje\KiBoxASP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ACAR\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Mustafa\Proje II\Proje\KiBoxASP\bin\Microsoft.Owin.dll
+C:\Users\ACAR\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Mustafa\Proje II\Proje\KiBoxASP\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ACAR\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Mustafa\Proje II\Proje\KiBoxASP\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\ACAR\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Mustafa\Proje II\Proje\KiBoxASP\bin\Microsoft.Owin.Security.dll
+C:\Users\ACAR\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Mustafa\Proje II\Proje\KiBoxASP\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\ACAR\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Mustafa\Proje II\Proje\KiBoxASP\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\ACAR\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Mustafa\Proje II\Proje\KiBoxASP\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\ACAR\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Mustafa\Proje II\Proje\KiBoxASP\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\ACAR\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Mustafa\Proje II\Proje\KiBoxASP\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\ACAR\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Mustafa\Proje II\Proje\KiBoxASP\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\ACAR\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Mustafa\Proje II\Proje\KiBoxASP\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\ACAR\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Mustafa\Proje II\Proje\KiBoxASP\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ACAR\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Mustafa\Proje II\Proje\KiBoxASP\bin\Newtonsoft.Json.dll
+C:\Users\ACAR\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Mustafa\Proje II\Proje\KiBoxASP\bin\Owin.dll
+C:\Users\ACAR\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Mustafa\Proje II\Proje\KiBoxASP\bin\System.Web.Optimization.dll
+C:\Users\ACAR\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Mustafa\Proje II\Proje\KiBoxASP\bin\System.Web.Providers.dll
+C:\Users\ACAR\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Mustafa\Proje II\Proje\KiBoxASP\bin\WebGrease.dll
+C:\Users\ACAR\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Mustafa\Proje II\Proje\KiBoxASP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ACAR\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Mustafa\Proje II\Proje\KiBoxASP\bin\System.Web.Optimization.xml
+C:\Users\ACAR\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Mustafa\Proje II\Proje\KiBoxASP\bin\Antlr3.Runtime.pdb
+C:\Users\ACAR\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Mustafa\Proje II\Proje\KiBoxASP\bin\Newtonsoft.Json.xml
+C:\Users\ACAR\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Mustafa\Proje II\Proje\KiBoxASP\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\ACAR\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Mustafa\Proje II\Proje\KiBoxASP\bin\EntityFramework.xml
+C:\Users\ACAR\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Mustafa\Proje II\Proje\KiBoxASP\bin\EntityFramework.SqlServer.xml
+C:\Users\ACAR\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Mustafa\Proje II\Proje\KiBoxASP\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\ACAR\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Mustafa\Proje II\Proje\KiBoxASP\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\ACAR\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Mustafa\Proje II\Proje\KiBoxASP\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\ACAR\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Mustafa\Proje II\Proje\KiBoxASP\bin\System.Web.Providers.xml
+C:\Users\ACAR\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Mustafa\Proje II\Proje\KiBoxASP\bin\Microsoft.Owin.xml
+C:\Users\ACAR\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Mustafa\Proje II\Proje\KiBoxASP\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ACAR\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Mustafa\Proje II\Proje\KiBoxASP\bin\Microsoft.Owin.Security.xml
+C:\Users\ACAR\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Mustafa\Proje II\Proje\KiBoxASP\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\ACAR\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Mustafa\Proje II\Proje\KiBoxASP\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\ACAR\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Mustafa\Proje II\Proje\KiBoxASP\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\ACAR\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Mustafa\Proje II\Proje\KiBoxASP\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\ACAR\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Mustafa\Proje II\Proje\KiBoxASP\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\ACAR\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Mustafa\Proje II\Proje\KiBoxASP\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\ACAR\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Mustafa\Proje II\Proje\KiBoxASP\obj\Debug\KiBoxASP.csprojAssemblyReference.cache
+C:\Users\ACAR\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Mustafa\Proje II\Proje\KiBoxASP\obj\Debug\KiBoxASP.csproj.CopyComplete
+C:\Users\ACAR\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Mustafa\Proje II\Proje\KiBoxASP\obj\Debug\KiBoxASP.dll
+C:\Users\ACAR\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Mustafa\Proje II\Proje\KiBoxASP\obj\Debug\KiBoxASP.pdb
